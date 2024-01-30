@@ -26,7 +26,7 @@ fi
 
 
 
-apt install lnav nmap speedtest-cli htop net-tools traceroute -y
+apt install lnav nmap speedtest-cli htop net-tools traceroute tree -y
 
 echo
 echo "Installation script has been completed!"
